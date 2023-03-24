@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piotr Minta</h1>
+<h1 align="center">Hello 👋, I'm Piotr Minta</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
 - 🔭 I’m currently working on **Java Registration App built with Spring Boot**
